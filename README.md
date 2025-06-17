@@ -1,0 +1,2 @@
+# eiwb
+Generate a variable for the ecological intensity of well-being Use eiwb With STATA 19
